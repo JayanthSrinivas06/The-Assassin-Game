@@ -41,9 +41,6 @@ Feel free to share your feedback for future improvements!
 📧 Reach out: jayanthsrinivas.b@gmail.com  
 🔗 GitHub: [JayanthSrinivas06](https://github.com/JayanthSrinivas06)
 
-> ❗ This repository is only for demo/play purposes.  
->     Please do not download, clone, or redistribute the code.
-
 ---
 
 Made with ❤️ by **Jayanth Srinivas Bommisetty**
